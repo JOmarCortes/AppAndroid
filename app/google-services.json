@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198762588857",
+    "project_id": "android-app-70365",
+    "storage_bucket": "android-app-70365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198762588857:android:7b90e429d49d7dc76d4968",
+        "android_client_info": {
+          "package_name": "com.example.evidenciaandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_CCeJPOkbLKGAnbT0ltnJxtrgoPM-kyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

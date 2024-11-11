@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">evidenciaAndroidApp</string>
+    <string-array name="roles">
+        <item>Administrador</item>
+        <item>Vendedor</item>
+        <item>Operario</item>
+    </string-array>
+</resources>
